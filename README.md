@@ -5,10 +5,8 @@ If you want to change the opacity
 
 
 own_window_argb_visual = false
-
-for more opacity
+-> for more opacity
 
 
 own_window_argb_visual = true 
-
-for full transparency 
+-> for full transparency 
